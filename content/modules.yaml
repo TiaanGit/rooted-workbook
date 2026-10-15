@@ -1,0 +1,167 @@
+# Rooted Workbook Content Skeleton
+# Life Church Waterfall - Original Discipleship Pathway
+# Edit via the Admin panel or directly here
+
+modules:
+  - id: 1
+    title: "The Gospel: Salvation by Grace Through Faith"
+    subtitle: "Understanding who Jesus is and what He has done"
+    description: >
+      Discover the heart of the Christian faith: that we are saved by grace through faith in Jesus Christ alone.
+      This module covers creation, the fall, the person and work of Christ, repentance, and new birth.
+    key_scriptures:
+      - "John 3:16"
+      - "Ephesians 2:8-9"
+      - "Romans 3:23-24"
+      - "2 Corinthians 5:17"
+    sections:
+      - title: "Why We Need a Saviour"
+        content: "Placeholder content - to be developed by elders and writers. Discuss sin, separation from God, and the human condition according to Scripture."
+        reflection: "What does the Bible say about humanity's need for salvation?"
+      - title: "Who Is Jesus?"
+        content: "Placeholder: Fully God, fully man. His life, death, and resurrection."
+        reflection: "How does the identity of Jesus shape your understanding of the gospel?"
+      - title: "Responding in Faith"
+        content: "Placeholder: Repentance, belief, and the free gift of salvation."
+        reflection: "Have you personally responded to the gospel? If so, share briefly (optional)."
+    status: "skeleton"
+
+  - id: 2
+    title: "Identity in Christ"
+    subtitle: "Who you are now that you belong to Jesus"
+    description: >
+      Explore the profound truth that in Christ you are a new creation. Learn about adoption, forgiveness,
+      freedom, and your secure position as a child of God.
+    key_scriptures:
+      - "Galatians 2:20"
+      - "Ephesians 1:3-14"
+      - "Colossians 3:1-4"
+      - "1 John 3:1"
+    sections:
+      - title: "New Creation"
+        content: "Placeholder content."
+        reflection: "What does it mean practically that the old has gone and the new has come?"
+      - title: "Adopted as Sons and Daughters"
+        content: "Placeholder content."
+        reflection: "How does knowing you are adopted change how you relate to God?"
+    status: "skeleton"
+
+  - id: 3
+    title: "The Authority of Scripture"
+    subtitle: "Why the Bible is trustworthy and sufficient"
+    description: >
+      Build confidence in the Bible as the inspired, authoritative Word of God. Learn how to read, study,
+      and apply Scripture faithfully in daily life.
+    key_scriptures:
+      - "2 Timothy 3:16-17"
+      - "Psalm 119:105"
+      - "Hebrews 4:12"
+      - "John 17:17"
+    sections:
+      - title: "Inspiration and Authority"
+        content: "Placeholder content."
+        reflection: "How has Scripture shaped your life so far?"
+      - title: "How to Study the Bible"
+        content: "Placeholder: Observation, interpretation, application."
+        reflection: "What is one practical step you can take this week to engage with Scripture?"
+    status: "skeleton"
+
+  - id: 4
+    title: "Prayer: Talking with the Father"
+    subtitle: "Cultivating a living relationship with God"
+    description: >
+      Learn the privilege and practice of prayer. Move from duty to delight as you communicate with your heavenly Father.
+    key_scriptures:
+      - "Matthew 6:9-13"
+      - "Philippians 4:6-7"
+      - "1 Thessalonians 5:17"
+      - "John 15:7"
+    sections:
+      - title: "The Privilege of Access"
+        content: "Placeholder content."
+        reflection: "What barriers have kept you from praying regularly?"
+      - title: "Practical Prayer"
+        content: "Placeholder: Adoration, confession, thanksgiving, supplication."
+        reflection: "Write out a simple prayer using the model of the Lord's Prayer."
+    status: "skeleton"
+
+  - id: 5
+    title: "The Holy Spirit"
+    subtitle: "The indwelling and empowering presence of God"
+    description: >
+      Understand the person and work of the Holy Spirit: conviction, regeneration, indwelling, fruit, and empowerment for mission.
+    key_scriptures:
+      - "John 14:16-17"
+      - "Acts 1:8"
+      - "Galatians 5:22-23"
+      - "Ephesians 5:18"
+    sections:
+      - title: "Who Is the Holy Spirit?"
+        content: "Placeholder content."
+        reflection: "How have you experienced the Spirit's work in your life?"
+      - title: "Walking in the Spirit"
+        content: "Placeholder content."
+        reflection: "What does dependence on the Spirit look like in everyday decisions?"
+    status: "skeleton"
+
+  - id: 6
+    title: "The Church: Doing Life Together"
+    subtitle: "Koinonia, baptism, and the body of Christ"
+    description: >
+      Discover why the local church matters. Explore biblical fellowship, the ordinances of baptism and the Lord's Supper,
+      and how we grow together as the body of Christ.
+    key_scriptures:
+      - "Acts 2:42-47"
+      - "Hebrews 10:24-25"
+      - "1 Corinthians 12:12-27"
+      - "Matthew 28:19-20"
+    sections:
+      - title: "Why Church?"
+        content: "Placeholder content."
+        reflection: "How has community helped (or hindered) your growth so far?"
+      - title: "Baptism and the Lord's Supper"
+        content: "Placeholder content."
+        reflection: "Have you been baptised as a believer? What does the Lord's Supper mean to you?"
+    status: "skeleton"
+
+  - id: 7
+    title: "Growing in Christ: Spiritual Disciplines"
+    subtitle: "Practices that form us into the image of Jesus"
+    description: >
+      Explore biblical practices that help us stay rooted and grow: Scripture, prayer, fellowship, serving, giving, and rest.
+    key_scriptures:
+      - "Colossians 2:6-7"
+      - "Hebrews 12:1-2"
+      - "2 Peter 3:18"
+      - "Matthew 6:33"
+    sections:
+      - title: "Disciplines of Grace"
+        content: "Placeholder content."
+        reflection: "Which spiritual practice do you most need to strengthen right now?"
+      - title: "Putting Off and Putting On"
+        content: "Placeholder: Romans 6, Ephesians 4, Colossians 3."
+        reflection: "What is one area where you want to grow in obedience this month?"
+    status: "skeleton"
+
+  - id: 8
+    title: "Released: Making Disciples"
+    subtitle: "Living out the Great Commission"
+    description: >
+      You were rooted so you could be released. Learn what it means to make disciples that make disciples,
+      share your story, and participate in God's mission in your home, workplace, and community.
+    key_scriptures:
+      - "Matthew 28:18-20"
+      - "Acts 1:8"
+      - "2 Timothy 2:2"
+      - "1 Peter 3:15"
+    sections:
+      - title: "The Great Commission"
+        content: "Placeholder content."
+        reflection: "Who has God placed in your life that needs to hear the gospel?"
+      - title: "Sharing Your Story"
+        content: "Placeholder: Your testimony in 3 minutes."
+        reflection: "Write a short version of your story: Before Christ, how you met Him, and life now."
+      - title: "Next Steps"
+        content: "Placeholder: Connecting to small groups, serving, ongoing growth."
+        reflection: "What is one concrete next step you will take after completing Rooted?"
+    status: "skeleton"
